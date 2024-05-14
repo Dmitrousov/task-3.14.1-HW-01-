@@ -10,6 +10,7 @@ LICENSE: [MIT](./license.md)
 1. [Что такое Git?](./gitinfo.md)
 2. [git config](./config.md)
 3. [git add](./add.md)
+4. [git init](./init.md)
 
 ---
 
