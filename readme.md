@@ -15,6 +15,7 @@ LICENSE: [MIT](./license.md)
 6. [git clone](./clone.md)
 7. [Работа с удалённым репозиторием](./remote.md)
 8. [Данные о состоянии репозитория](./status.md)
+9. [Файл .gitignore - что нельзя добавлять в репозиторий?](./gitignore.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
