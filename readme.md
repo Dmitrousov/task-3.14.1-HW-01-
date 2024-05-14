@@ -17,6 +17,7 @@ LICENSE: [MIT](./license.md)
 8. [Данные о состоянии репозитория](./status.md)
 9. [Файл .gitignore - что нельзя добавлять в репозиторий?](./gitignore.md)
 10. [Ветвление](./branches.md)
+11. [Fork](./fork.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
