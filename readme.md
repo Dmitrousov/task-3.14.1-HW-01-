@@ -8,6 +8,7 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Что такое Git?](./gitinfo.md)
+#### Основные команды Git
 2. [git config](./config.md)
 3. [git add](./add.md)
 4. [git init](./init.md)
@@ -18,6 +19,7 @@ LICENSE: [MIT](./license.md)
 9. [Файл .gitignore - что нельзя добавлять в репозиторий?](./gitignore.md)
 10. [Ветвление](./branches.md)
 11. [Fork](./fork.md)
+#### Работа с Git
 12. [Создание проекта](./create.md)
 13. [Проверка состояния](./statuschecking.md)
 ---
