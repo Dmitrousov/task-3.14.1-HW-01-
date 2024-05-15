@@ -22,6 +22,7 @@ LICENSE: [MIT](./license.md)
 #### Работа с Git
 12. [Создание проекта](./create.md)
 13. [Проверка состояния](./statuschecking.md)
+14. [Учебник по Git](./educate.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
