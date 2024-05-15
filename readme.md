@@ -19,6 +19,7 @@ LICENSE: [MIT](./license.md)
 10. [Ветвление](./branches.md)
 11. [Fork](./fork.md)
 12. [Создание проекта](./create.md)
+13. [Проверка состояния](./statuschecking.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
